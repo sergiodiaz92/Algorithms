@@ -4,5 +4,7 @@ A collection of  Project which solves some of the most common Algorithm problems
 
 ## List of Problems
 - Roman numeral converter
+- Rotate Array
+- Reverse words in a string
 
 
