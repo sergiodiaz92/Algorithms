@@ -1,0 +1,16 @@
+C:\Users\E083690\source\repos\Algorithms\RotateArray\bin\Debug\net5.0\RotateArray.exe
+C:\Users\E083690\source\repos\Algorithms\RotateArray\bin\Debug\net5.0\RotateArray.deps.json
+C:\Users\E083690\source\repos\Algorithms\RotateArray\bin\Debug\net5.0\RotateArray.runtimeconfig.json
+C:\Users\E083690\source\repos\Algorithms\RotateArray\bin\Debug\net5.0\RotateArray.runtimeconfig.dev.json
+C:\Users\E083690\source\repos\Algorithms\RotateArray\bin\Debug\net5.0\RotateArray.dll
+C:\Users\E083690\source\repos\Algorithms\RotateArray\bin\Debug\net5.0\ref\RotateArray.dll
+C:\Users\E083690\source\repos\Algorithms\RotateArray\bin\Debug\net5.0\RotateArray.pdb
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\RotateArray.csproj.AssemblyReference.cache
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\RotateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\RotateArray.AssemblyInfoInputs.cache
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\RotateArray.AssemblyInfo.cs
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\RotateArray.csproj.CoreCompileInputs.cache
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\RotateArray.dll
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\ref\RotateArray.dll
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\RotateArray.pdb
+C:\Users\E083690\source\repos\Algorithms\RotateArray\obj\Debug\net5.0\RotateArray.genruntimeconfig.cache

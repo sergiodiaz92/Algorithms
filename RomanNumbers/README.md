@@ -2,7 +2,7 @@
 
 Given a integer number from 1 to 2021, create a function to convert it to its equivalent on the  Roman numeral system.
 
-## For example:
+## For example
 - Roman Number of 2021 is MMXXI
 - Roman Number of 1999 is MCMXCIX
 - Roman Number of 1549 is MDXLIX
