@@ -7,5 +7,6 @@ A collection of  Project which solves some of the most common Algorithm problems
 - Rotate Array
 - Reverse words in a string
 - Evaluate Reverse Polish Notation
+- Isomorphic strings
 
 
