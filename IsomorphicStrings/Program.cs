@@ -49,9 +49,15 @@ namespace IsomorphicStrings
             {
                 return ret;
             }
+            Dictionary<char, int> dictA = GetDictionary(a);
+            Dictionary<char, int> dictB = GetDictionary(b);
+                        
+            ret = dictA.Values.SequenceEqual(dictB.Values);
+            return ret;
+        }
+        public static Dictionary<char, int> GetDictionary(string mystring){
             Dictionary<char, int> dictA = new Dictionary<char, int>();
-            Dictionary<char, int> dictB = new Dictionary<char, int>();
-            foreach (char c in a)
+            foreach (char c in mystring)
             {
                 if (dictA.ContainsKey(c))
                 {
@@ -62,20 +68,7 @@ namespace IsomorphicStrings
                     dictA[c] = 1;
                 }
             }
-            foreach (char c in b)
-            {
-                if (dictB.ContainsKey(c))
-                {
-                    dictB[c]++;
-                }
-                else
-                {
-                    dictB[c] = 1;
-                }
-            }
-            
-            ret = dictA.Values.SequenceEqual(dictB.Values);
-            return ret;
+            return dictA;
         }
         static void Main(string[] args)
         {
