@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JgNlD4TsS3lTu+6fwgrNEvf669lBA00toCMCSS9YOM0nxGv9whbrEaERUdMKjms48fsldvuPyJ4cPvpcBiYjMQ==",
+  "dgSpecHash": "6OgXxpCpva9apZT+H4RV1OY/U8OpTweITb/hT71COj2X5lP153FWbubKi0WZaJKCCmfOqN48yjKahrskwztMhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\E083690\\source\\repos\\Algorithms\\IsomorphicStrings\\IsomorphicStrings.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\denni\\source\\repos\\Algorithms\\IsomorphicStrings\\IsomorphicStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

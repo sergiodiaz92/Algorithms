@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EarJmmkUNCqHIoLlJ1ZmhlzqZsy+Y7zEzg2NbqM+8JLSyspYwvNFF1cc2jYN6nt9deFFuanOnBR4Sm3Bsq1sew==",
+  "dgSpecHash": "PrFEQWJpRGLOd+HtDQlZIVOj86z7Ha2mebgyRmVcK+NMSWmBHrIe/yfH5WxxMi/HwTRKEXA1lp0eoqdX1zzP9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\E083690\\source\\repos\\Algorithms\\ReversePolishNotation\\ReversePolishNotation.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\denni\\source\\repos\\Algorithms\\ReversePolishNotation\\ReversePolishNotation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

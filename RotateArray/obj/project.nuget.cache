@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZuozPhs/3HcebspWu3JCf6kkrr48Z4SgTuHPEJspV3AstLDfu35iM7tHFi+8OMT4RUsf7GZ9zkuvA7tpy0i8Dw==",
+  "dgSpecHash": "w/v2T43DcAieOkTkZfqsTt43kurf6jWPZ8SLBuxvmA+fODQPgapex3F7272I12PVmbd6MiMT4B2QJllvxSuzQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\E083690\\source\\repos\\Algorithms\\RotateArray\\RotateArray.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\denni\\source\\repos\\Algorithms\\RotateArray\\RotateArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
