@@ -9,4 +9,6 @@ A collection of  Projects which solve some of the most common Algorithm problems
 - Evaluate Reverse Polish Notation
 - Isomorphic strings
 
-
+## Technologies
+- .NET 6
+- Console Application
